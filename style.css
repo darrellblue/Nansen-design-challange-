@@ -1,25 +1,74 @@
 * {
     box-sizing: border-box;
+    font-size: 1em;
 }
 
+.blkheight {
+
+    height: 150px;
 
 
-.Grid1 {
+}
+
+.grid9 {
+    margin-top: 10px;
+}
+
+.grid1 {
+    margin-top: 20px;
+}
+
+.Grid5 {
+    font-size:12px;
+    height: 50px;
     
 }
 
 .Grid2 {
-  /* padding-right: 5px; */
-   /* margin: 5px; */
-  
+    height: 70px;
+    font-size: 17px;
+
     
 }
 
 .grid3{
+    height: 195px;
+
+
     
     /* margin: 10px;*/
 }
-/* outer row */
+
+.box {
+    height: 150px;
+    background-color: dodgerblue;
+}
+
+.Circle {
+    background-color: fuchsia;
+    height: 25px;
+    width: 25px;
+}
+
+
 .grid4 {
     margin: 50px;
+    
+}
+
+.grid6 {
+    height: 35px;
+    font-size: 10px;
+}
+
+.grid7 {
+    height: 110px;
+    font-size: 10px;
+
+}
+
+.grid8 {
+    height: 40px;
+    font-size: 12px;
+    
 }
